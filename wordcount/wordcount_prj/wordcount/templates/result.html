@@ -1,0 +1,11 @@
+{% extends 'base.html' %} {% load static %} {% block title %} result {% endblock
+%} {% block body %} {% include './header.html' %}
+<h1>당신이 입력한 텍스트는 {{ wordstotalcount }} 단어로 구성돼 있습니다.</h1>
+<h1>입력한 텍스트:</h1>
+{{ alltext }}
+<h1>단어카운트:</h1>
+{% for word, frequency in dictionary %} {{ word }} : {{ frequency }}
+<br />
+{% endfor %}
+<a href="{% url 'word_count' %}">다시하기</a>
+{% endblock %}
