@@ -1,0 +1,137 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "4",
+      "day": 4
+    },
+    {
+      "id": "5",
+      "day": 5
+    },
+    {
+      "id": "6",
+      "day": 6
+    },
+    {
+      "id": "7",
+      "day": 7
+    },
+    {
+      "day": 8,
+      "id": "oapOOuxDhc8"
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "cat",
+      "kor": "고양이",
+      "isDone": false
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "eng": "dog",
+      "kor": "강아지",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": "7",
+      "day": 4,
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "8",
+      "day": 4,
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "9",
+      "day": 5,
+      "eng": "water",
+      "kor": "물",
+      "isDone": false
+    },
+    {
+      "id": "10",
+      "day": 5,
+      "eng": "milk",
+      "kor": "우유",
+      "isDone": false
+    },
+    {
+      "id": "11",
+      "day": 6,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": false
+    },
+    {
+      "id": "12",
+      "day": 6,
+      "eng": "bus",
+      "kor": "버스",
+      "isDone": false
+    },
+    {
+      "id": "13",
+      "day": 7,
+      "eng": "sun",
+      "kor": "해",
+      "isDone": false
+    },
+    {
+      "id": "14",
+      "day": 7,
+      "eng": "moon",
+      "kor": "달",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": "apCsmvPWuJA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
